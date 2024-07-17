@@ -1,1 +1,1 @@
-emqx/emqx:5.7.1
+louislam/uptime-kuma:debian
