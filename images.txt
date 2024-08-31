@@ -1,1 +1,1 @@
-emqx/emqx:5.7.0
+bitnami/zookeeper:3.8
