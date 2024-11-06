@@ -1,1 +1,1 @@
-node:16.20.2-alpine
+nacos/nacos-peer-finder-plugin:1.1
