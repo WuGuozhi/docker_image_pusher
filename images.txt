@@ -1,1 +1,7 @@
-nacos/nacos-peer-finder-plugin:1.1
+apache/rocketmq:4.9.3
+apacherocketmq/rocketmq-dashboard:latest
+elasticsearch/elasticsearch:7.10.2
+grafana/loki:2.6.1
+grafana/promtail:2.9.3
+grafana/grafana:10.3.3
+kiwigrid/k8s-sidecar:1.19.2
