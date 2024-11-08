@@ -1,4 +1,1 @@
-grafana/loki:2.6.1
-grafana/promtail:2.9.3
-grafana/grafana:10.3.3
-kiwigrid/k8s-sidecar:1.19.2
+docker.elastic.co/elasticsearch/elasticsearch:7.10.2
