@@ -1,2 +1,2 @@
-bitnami/elasticsearch:7.16.2
-bitnami/kibana:7.16.2
+bitnami/elasticsearch:7.16.2-debian-10-r26
+bitnami/kibana:7.16.2-debian-10-r26
