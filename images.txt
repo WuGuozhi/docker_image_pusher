@@ -1,1 +1,2 @@
-grafana/loki:2.8.3
+elastic/elasticsearch:7.16.2
+elastic/kibana:7.16.2
