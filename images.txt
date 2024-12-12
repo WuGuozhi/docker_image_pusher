@@ -1,2 +1,2 @@
-elastic/elasticsearch:7.16.2
-elastic/kibana:7.16.2
+bitnami/elasticsearch:7.16.2
+bitnami/kibana:7.16.2
