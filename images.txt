@@ -1,1 +1,9 @@
-prom/prometheus:v2.45.6
+docker.io/grafana/grafana:11.4.0
+quay.io/prometheus-operator/prometheus-config-reloader:v0.78.2
+quay.io/prometheus/prometheus:v3.1.0
+docker.io/nginxinc/nginx-unprivileged:1.27-alpine
+kiwigrid/k8s-sidecar:1.27.5
+docker.io/grafana/loki:3.2.0
+memcached:1.6.23-alpine
+prom/memcached-exporter:v0.14.2
+docker.io/grafana/loki-canary:3.2.0
