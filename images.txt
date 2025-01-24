@@ -1,1 +1,1 @@
-elasticsearch:7.16.3
+rancher/library-traefik:1.7.19
