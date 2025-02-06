@@ -1,1 +1,1 @@
-rancher/library-traefik:1.7.19
+nacos/nacos-server:v2.4.3
