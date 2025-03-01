@@ -1,0 +1,12 @@
+docker.io/grafana/promtail:3.0.0
+kiwigrid/k8s-sidecar:1.28.0
+docker.io/grafana/loki:3.3.2
+docker.io/nginxinc/nginx-unprivileged:1.27-alpine
+kiwigrid/k8s-sidecar:1.27.5
+docker.io/grafana/loki:3.2.0
+memcached:1.6.23-alpine
+prom/memcached-exporter:v0.14.2
+docker.io/grafana/loki-canary:3.2.0
+prom/memcached-exporter:v0.15.0
+memcached:1.6.33-alpine
+docker.io/grafana/loki-canary:3.3.2
