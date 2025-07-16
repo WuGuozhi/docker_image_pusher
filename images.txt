@@ -1,3 +1,1 @@
-memcached:1.6.38-alpine
-prom/memcached-exporter:v0.15.2
-kiwigrid/k8s-sidecar:1.30.2
+docker.io/bitnami/rabbitmq:3.11
