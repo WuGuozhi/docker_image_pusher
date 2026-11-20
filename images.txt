@@ -1,2 +1,2 @@
-docker.io/nginx-unprivileged:latest
-docker.io/nginx:latest
+docker.io/nginx/nginx-unprivileged:latest
+docker.io/library/nginx:latest
